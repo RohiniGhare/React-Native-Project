@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #490B3D;
+    height: 20%;
+}
+.nav-link{
+    color: #F1B814;
+    font-size: large;
+    margin-left: 2%;
+    margin-right: 2%;
+    /* border: #fdfcf8; */
+    border-width: 20px;
+}
+.logout{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    right: 0;
+}
+.nav-link:hover{
+    color: #fdfcf8;
+}
+

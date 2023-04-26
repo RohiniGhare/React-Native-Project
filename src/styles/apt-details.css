@@ -1,0 +1,25 @@
+.apt-page{
+    background-color: #FDF5DF;
+    height: 100%;
+}
+.apt-details{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.table{
+    /* background-color: #F1B814; */
+    color: #BD1E51;
+    font-size: medium;
+}
+tr:hover{
+    background-color: #F1B814;
+    color: #490B3D;
+    font-size: large;
+    font-weight: 600;
+}
+.table-bordered{
+    border-color: #490B3D;
+    border-width: 5px;
+}

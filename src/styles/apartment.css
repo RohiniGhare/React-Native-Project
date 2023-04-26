@@ -1,0 +1,45 @@
+.apt-form{
+    width: 60%;
+    /* height: 70%; */
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 2%;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    background-color: #FDF5DF;
+    padding: 3%;
+}
+.error-msg{
+    color: red;
+}
+/* .apt-card{
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 2%;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    background-color: #FDF5DF;
+}
+.apt-label{
+    color: #48063b;
+    margin: 2%;
+    justify-content: start;
+    align-items: start;
+    font-weight: 700;
+    font-size: xx-large;
+    font-stretch: ultra-expanded;
+}
+.input-feild{
+    width: 150%;
+    margin: 2%;
+}
+.button-feild{
+    width: 150%;
+    margin: 2%;
+}
+.reg-error{
+    color: red;
+} */

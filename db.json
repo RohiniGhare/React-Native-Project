@@ -1,0 +1,126 @@
+{
+    "owners": [
+      {
+        "id": 1,
+        "ownerName": "Rohini",
+        "ownerEmail": "ro@gmail.com",
+        "ownerPassword": "1234",
+        "ownerContact": "9876543210"
+      },
+      {
+        "id": 2,
+        "ownerName": "Evita",
+        "ownerEmail": "evi@gmail.com",
+        "ownerPassword": "1234",
+        "ownerContact": "9876543210"
+      },
+      {
+        "ownerName": "nil",
+        "ownerContact": 9087654321,
+        "ownerEmail": "nil@gmail.com",
+        "ownerPassword": "1234",
+        "id": 3
+      },
+      {
+        "ownerName": "riya",
+        "ownerContact": 9087654321,
+        "ownerEmail": "riya@gmail.com",
+        "ownerPassword": "1234",
+        "id": 4
+      },
+      {
+        "ownerName": "sam",
+        "ownerContact": 8907654321,
+        "ownerEmail": "sam@gmail.com",
+        "ownerPassword": "sam123",
+        "id": 5
+      },
+      {
+        "ownerName": "raj",
+        "ownerContact": 8907654321,
+        "ownerEmail": "raj@gmail.com",
+        "ownerPassword": "rag123",
+        "id": 6
+      },
+      {
+        "ownerName": "Tom",
+        "ownerContact": 8907654321,
+        "ownerEmail": "tom@gmail.com",
+        "ownerPassword": "tom1234",
+        "id": 7
+      },
+      {
+        "ownerName": "ram",
+        "ownerContact": 7890654321,
+        "ownerEmail": "ram@gmail.com",
+        "ownerPassword": "ram123",
+        "id": 8
+      },
+      {
+        "ownerName": "tina",
+        "ownerContact": 8097654321,
+        "ownerEmail": "tina@gmail.com",
+        "ownerPassword": "tina",
+        "id": 9
+      },
+      {
+        "ownerName": "tina123",
+        "ownerContact": 8907654321,
+        "ownerEmail": "tina2@gmail.com",
+        "ownerPassword": "1234",
+        "id": 10
+      }
+    ],
+    "apartments": [
+      {
+        "id": 1,
+        "aptNumber": "201",
+        "aptName": "Irving",
+        "aptAddress": "Manapakkam",
+        "aptCity": "Chennai",
+        "aptType": "2-bhk",
+        "aptRent": "30,000"
+      },
+      {
+        "id": 2,
+        "aptNumber": "202",
+        "aptName": "Irving",
+        "aptAddress": "Manapakkam",
+        "aptCity": "Chennai",
+        "aptType": "3-bhk",
+        "aptRent": "30,000"
+      },
+      {
+        "id": 3,
+        "aptNumber": 201,
+        "aptName": "Irving",
+        "aptAddress": "Krishnaveninagar",
+        "aptCity": "Chennai",
+        "aptRent": "40000"
+      },
+      {
+        "id": 4,
+        "aptNumber": 304,
+        "aptName": "Savali",
+        "aptAddress": "Chinchwad",
+        "aptCity": "Pune",
+        "aptRent": "55000"
+      },
+      {
+        "id": 7,
+        "aptNumber": 401,
+        "aptName": "Villa",
+        "aptAddress": "Krishnanagar",
+        "aptCity": "Pune",
+        "aptRent": "30000"
+      },
+      {
+        "id": 5,
+        "aptNumber": 290,
+        "aptName": "Savali",
+        "aptAddress": "Krishnanagar",
+        "aptCity": "Pune",
+        "aptRent": "20000"
+      }
+    ]
+  }
